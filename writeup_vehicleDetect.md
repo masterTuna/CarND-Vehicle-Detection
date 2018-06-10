@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 [image1]: ./output_images/car_no_car.png
 [image2]: ./output_images/hog_car_no_car.png
 [image3]: ./output_images/sliding_windows.png
-[image4]: ./output_images/pipeline_result.png
+[image4]: ./output_images/pipeline_results.png
 [image5]: ./output_images/heatmap.png
 [image6]: ./output_images/labels_map.png
 [video1]: ./test_video_boxes.mp4
